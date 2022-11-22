@@ -98,7 +98,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data1 update",
+						"name": "Copy data1 Update",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {

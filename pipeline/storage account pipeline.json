@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "storage account pipeline",
 	"properties": {
 		"activities": [
 			{
